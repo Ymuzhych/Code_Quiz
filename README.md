@@ -1,6 +1,6 @@
 # Code_Quiz Weekly Challenge
 
- Quiz Challenge is a weekly challenges.  
+ Quiz Challenge is a weekly challenge.  
  The acceptance criteria:   
  When user is take a quiz, they can click a start button and timer start. After that user is presented with question. Once first question is answered the user is told if the answer is correct or wrong. If incorrect, then time is deducted from the timer (5sec) and they are directed to the next question. Then when all questions are answered or when time expirers the game ends and the user enter initials and score.  
 
