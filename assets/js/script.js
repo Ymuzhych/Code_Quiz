@@ -122,7 +122,7 @@ function checkAnswer(event) {
    
      //CONDITIONAL STATEMENTS WRONG
     else if (questions[questionCount].correctAnswer !== event.target.value) {
-        secondsLeft = secondsLeft - 10;
+        secondsLeft = secondsLeft - 5;
         p.textContent = "Wrong!";
     }
 
